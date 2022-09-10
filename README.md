@@ -27,6 +27,8 @@ Just a curiosity project to see the impact of Russia's scare tactics
 
 - First spike was Fukushima which was the biggest spike
 
+- Latest spike (08/2022) is from Zaporizhzhya NPP
+
 ### "Nuclear Weapons"
 
 ![alt text](https://github.com/Covac/Nuclear-Scare/blob/main/Graphs/Nuclear_weapons_only.png)
